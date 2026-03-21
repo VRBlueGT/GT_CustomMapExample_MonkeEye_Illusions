@@ -5,27 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/GorillaTagMaps/Forest.unity
-    guid: e5f9379109e5424428c405593f61ed7a
   - enabled: 1
-    path: Assets/Scenes/FunctionalityOverview_StartingZone.unity
-    guid: 37d59a4d01c3b024ca0ef7abe6ce5238
-  - enabled: 1
-    path: Assets/Scenes/FunctionalityOverview_OceanZone.unity
-    guid: c863643a1b2b06f4ba993aba81bd0186
-  - enabled: 1
-    path: Assets/Scenes/FunctionalityOverview_ScriptsZone.unity
-    guid: 29986dd208b5d7d45865fd93ff88b5f8
-  - enabled: 1
-    path: Assets/Scenes/FunctionalityOverview_DynamicLights.unity
-    guid: c91fbb8c7570acb4888a56257eaa17f5
-  - enabled: 0
-    path: Assets/Scenes/MinimalExample.unity
-    guid: 6cdfb6f90d18e2249adb8b135aa3d01b
-  - enabled: 0
-    path: Assets/Scenes/TeamTag.unity
-    guid: 3853ada55b9ae264ab04d35d938e747f
+    path: Assets/Scenes/map.unity
+    guid: a5c158d90e6614b8584c482c8f36e576
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 15b99076b4e70494f9b438585587dffb,
       type: 2}
