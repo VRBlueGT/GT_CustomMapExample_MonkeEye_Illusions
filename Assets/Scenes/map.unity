@@ -132,6 +132,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Teleporter
       objectReference: {fileID: 0}
+    - target: {fileID: 2111345812125902467, guid: 2cf77b5539276e14aa4ad72be7086cba,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2772986122079406712, guid: 2cf77b5539276e14aa4ad72be7086cba,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -509,13 +514,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 310962910}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.70710576, y: -0, z: -0, w: 0.7071079}
+  m_LocalRotation: {x: 0.0000002243217, y: -0.7071079, z: 0.70710576, w: -0.00000023978217}
   m_LocalPosition: {x: -0.09284973, y: -0.34859014, z: -7.6708407}
   m_LocalScale: {x: 0.14557654, y: 0.088544816, z: 0.15163894}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2056323718}
-  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 90, y: -180, z: 0}
 --- !u!64 &310962912
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -561,7 +566,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7654598409277414eb1358cd653d2bd0, type: 2}
+  - {fileID: 2100000, guid: f7f8f1c77ce0f4b19be20b3613d4b041, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -989,6 +994,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TeleportPoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 2111345812125902467, guid: 3dd09eae1b80a1d4aaec43e85aa79cca,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2772986122079406712, guid: 3dd09eae1b80a1d4aaec43e85aa79cca,
         type: 3}
@@ -1520,6 +1530,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Teleporter
+      objectReference: {fileID: 0}
+    - target: {fileID: 2111345812125902467, guid: 2cf77b5539276e14aa4ad72be7086cba,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2772986122079406712, guid: 2cf77b5539276e14aa4ad72be7086cba,
         type: 3}
@@ -2432,6 +2447,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Teleporter
       objectReference: {fileID: 0}
+    - target: {fileID: 2111345812125902467, guid: 2cf77b5539276e14aa4ad72be7086cba,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2772986122079406712, guid: 2cf77b5539276e14aa4ad72be7086cba,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -2997,7 +3017,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 76abad0fa141a4a75b37f53d20546882, type: 2}
+  - {fileID: 2100000, guid: 27f995e0668cd4f8ca0fea0886b533c2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3214,6 +3234,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TeleportPoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 2111345812125902467, guid: 3dd09eae1b80a1d4aaec43e85aa79cca,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2772986122079406712, guid: 3dd09eae1b80a1d4aaec43e85aa79cca,
         type: 3}
@@ -3679,6 +3704,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Teleporter
+      objectReference: {fileID: 0}
+    - target: {fileID: 2111345812125902467, guid: 2cf77b5539276e14aa4ad72be7086cba,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2772986122079406712, guid: 2cf77b5539276e14aa4ad72be7086cba,
         type: 3}
