@@ -2,6 +2,8 @@
 
 # GT_CustomMapExample
 A Unity project to facilitate the creation of custom maps for Gorilla Tag. 
+## WARNING
+I have moved this repository to Codeberg. It will be archived. https://codeberg.org/VRBlueGT/GT_CustomMapExample_MonkeEye_Illusions.
 
 **Contents**
 
